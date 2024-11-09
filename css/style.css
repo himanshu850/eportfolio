@@ -205,6 +205,19 @@ ul
     flex: 0 0 60%;
     max-width: 60%;
 }
+h3.hello
+{
+    font-size: 28px;
+    margin: 15px 0;
+}
+h3.hello span
+{
+    font-family: 'Clicker Script' , cursive;
+    font-size: 30px;
+    font-weight: 700;
+    color: var(--skin-color);
+}
+
 .home .home-img
 {
     flex: 0 0 40%;
@@ -212,7 +225,7 @@ ul
     background: red;
     text-align: center;
     position: relative;
-    
+
 }
 .home .home-img img
 {
